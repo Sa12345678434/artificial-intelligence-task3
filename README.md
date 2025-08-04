@@ -35,5 +35,8 @@ In this task, a chatbot was created that can answer questions in voice and text
 8. Writing Python code and add API key in the designated place
 9. From view menu, I opened the terminal and then run code on base environment
 
+## Video for output
+
+
 
 
