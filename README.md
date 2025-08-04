@@ -37,6 +37,6 @@ In this task, a chatbot was created that can answer questions in voice and text
 
 ## Video for output
 
-
+https://github.com/user-attachments/assets/31e3bbde-17d8-4560-a3b4-a1b99c4fc5d0
 
 
