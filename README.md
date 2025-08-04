@@ -1,4 +1,4 @@
-# artificial-intelligence-task4
+# artificial-intelligence-task3
 ## Task description 
 In this task, a chatbot was created that can answer questions in voice and text
 
