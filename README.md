@@ -25,10 +25,10 @@ In this task, a chatbot was created that can answer questions in voice and text
 2. I unzipped this folder and put it in Documents
 3. I opening Anaconda > Environment > base > open terminal
 4. After opening terminal type the following command to install libraries:
-  1. pip install whisper
-  2. pip install cohere
-  3. pip install sounddevice
-  4. pip install pyttsx3
+   1. pip install whisper
+   2. pip install cohere
+   3. pip install sounddevice
+   4. pip install pyttsx3
 5. Opening Visual Studio code > open folder > RealtimeSTT
 6. Opening Cohere website > login > Dashboard > API key > copy API key
 7. In VS new file > main1.py
