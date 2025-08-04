@@ -23,8 +23,8 @@ In this task, a chatbot was created that can answer questions in voice and text
 ## Creation steps
 1. I downloaded RealtimeSTT folder from github
 2. I unzipped this folder and put it in Documents
-3. I open Anaconda > Environment > base > open terminal
-4. After opening terminal type the following command to install libraries:
+3. I opened Anaconda > Environment > base > open terminal
+4. After opening terminal, type the following command to install libraries:
    1. pip install whisper
    2. pip install cohere
    3. pip install sounddevice
